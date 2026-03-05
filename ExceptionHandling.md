@@ -15,14 +15,7 @@
 | --- | --- |
 | An **error** is a problem in the program that **prevents the program from running correctly** | An **exception** is a runtime problem that occurs during program execution |
 | **cannot be handled easily by the programmer**. | **can be handled using exception handling** |
-| Types: 
-  1. **Syntax Error** 
-  2. Logical **Error** 
-  3. **Runtime Error**  | Types
-  1. ZeroDivisionError
-  2.  ValueError
-  3. Type error 
-etc |
+| Types: 1. Syntax Error 2. Logical Error 3. Runtime Error  | Types: 1. ZeroDivisionError 2. ValueError  3. Type error, etc |
 
 Basic Synatx
 
